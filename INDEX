@@ -69,6 +69,15 @@
 		"category": "security",
 		"homepage": "https://www.clamav.net/"
 	},
+	"crowdsec": {
+		"MANIFEST": "crowdsec.json",
+		"name": "CrowdSec",
+		"icon": "https://icons.freenas.org/community-icons/crowdsec.png",
+		"description": "CrowdSec is a free & open-source security automation tool leveraging local IP behavior detection & a community-powered IP reputation system.",
+		"official": false,
+		"category": "security",
+		"homepage": "https://crowdsec.net"
+	},
 	"deluge-pip": {
 		"MANIFEST": "deluge-pip.json",
 		"description": "Deluge is Python-based Bittorent client.",
