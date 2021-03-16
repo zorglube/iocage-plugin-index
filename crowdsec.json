@@ -13,7 +13,11 @@
         "git-lite",
         "go",
         "jq",
-        "python37"
+        "python37",
+        "gmake",
+        "docker",
+        "openjdk11",
+        "curl"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
