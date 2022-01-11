@@ -10,14 +10,7 @@
     "pkgs": [
         "bash",
         "ca_root_nss",
-        "git-lite",
-        "go",
-        "jq",
-        "python37",
-        "gmake",
-        "docker",
-        "openjdk11",
-        "curl"
+        "crowdsec"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
