@@ -230,6 +230,14 @@
 		"official": false,
 		"primary_pkg": "irssi"
 	},
+	"iSponsorBlockTV": {
+		"MANIFEST": "iSponsorBlockTV.json",
+		"description": "Skip sponsor segments in YouTube videos playing on a YouTube TV device.",
+		"icon": "https://icons.freenas.org/community-icons/iSponsorBlockTV.png",
+		"name": "iSponsorBlockTV",
+		"official": false,
+		"primary_pkg": "iSponsorBlockTV"
+	},
 	"jackett": {
 		"MANIFEST": "jackett.json",
 		"description": "API Support for your favorite torrent trackers",
